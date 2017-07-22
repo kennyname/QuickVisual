@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:o_id;datatype:int,name:o_acc;datatype:string,name:o_pro;datatype:int,name:o_num;datatype:int,name:o_date;datatype:string,name:o_studios;datatype:string,name:o_ordernum;datatype:int,name:o_position;datatype:string,name:o_hall;datatype:string,name:o_items;datatype:string" />
+	<infoitem key="UD_chk" value="name:a_id;datatype:int,name:a_joinname;datatype:string,name:a_account;datatype:string,name:a_pass;datatype:string,name:a_name;datatype:string,name:a_address;datatype:string,name:a_phone;datatype:string,name:a_sogi;datatype:string,name:atm;datatype:string,name:a_area;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:o_id;datatype:int,name:o_acc;datatype:string,name:o_pro;datatype:int,name:o_num;datatype:int,name:o_date;datatype:string,name:o_studios;datatype:string,name:o_ordernum;datatype:int,name:o_position;datatype:string,name:o_hall;datatype:string,name:o_items;datatype:string,name:o_checkout;datatype:int" />
+</info>
